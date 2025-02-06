@@ -377,7 +377,8 @@ def plot_fcd_circular_xr(da, source_name='sources', target_name='targets',
     assert node_color in ['lobe', 'density', 'weight']
 
     # be sure of dimension names
-    da = da.rename({source_name: 'sources', target_name: 'targets'})
+    # da = da.rename({source_name: 'sources', target_name: 'targets'})
+    da = da.set_index({source_name: 'sources', target_name: 'targets'})
     # compute net weights from c_in and c_out
     roi = da.sources.data
     c_in = da.sum(dim='sources')
