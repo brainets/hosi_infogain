@@ -18,11 +18,11 @@ LOBE_COLOR = {'Subcortical': [1.0, 0.55, 0.46], 'Frontal': [0.0, 0.8, 0.64],
               'Temporal': [1.0, 0.35, 0.42]}
 
 LOBE_COLOR = {
-    'Subcortical': [0.0, 0.5, 0.2],  # Deep forest green  
-    'Frontal': [0.0, 0.7, 0.3],      # Vibrant emerald green  
-    'Parietal': [0.2, 0.8, 0.4],     # Fresh mint green  
-    'Occipital': [0.4, 0.9, 0.5],    # Soft pastel green  
-    'Temporal': [0.1, 0.6, 0.3]      # Rich jade green  
+    'Subcortical': [0.95, 0.25, 0.15],  # Stronger, deeper red  
+    'Frontal': [0.0, 0.7, 0.5],         # Richer teal-green  
+    'Parietal': [0.1, 0.4, 0.6],        # Deeper, more vivid blue  
+    'Occipital': [0.55, 0.3, 0.75],     # Stronger purple with contrast  
+    'Temporal': [0.9, 0.1, 0.2]         # Bolder, more saturated red-pink  
 }
 
 def _plot_fcd_stat(mi, pvalues, p, seeds=None):
