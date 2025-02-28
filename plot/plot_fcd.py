@@ -17,6 +17,13 @@ LOBE_COLOR = {'Subcortical': [1.0, 0.55, 0.46], 'Frontal': [0.0, 0.8, 0.64],
               'Parietal': [0.28, 0.5, 0.61], 'Occipital': [0.66, 0.53, 0.75],
               'Temporal': [1.0, 0.35, 0.42]}
 
+LOBE_COLOR = {
+    'Subcortical': [0.0, 0.5, 0.2],  # Deep forest green  
+    'Frontal': [0.0, 0.7, 0.3],      # Vibrant emerald green  
+    'Parietal': [0.2, 0.8, 0.4],     # Fresh mint green  
+    'Occipital': [0.4, 0.9, 0.5],    # Soft pastel green  
+    'Temporal': [0.1, 0.6, 0.3]      # Rich jade green  
+}
 
 def _plot_fcd_stat(mi, pvalues, p, seeds=None):
     """Preprocess mi and p-values before plotting."""
