@@ -5,4 +5,4 @@ Script associated with the preprint
 
 _Etienne Combrisson, Ruggero Basanisi, Matteo Neri, Guillaume Auzias, Giovanni Petri, Daniele Marinazzo, Stefano Panzeri, Andrea Brovelli_
 
-[https://www.biorxiv.org/content/10.1101/2024.09.23.614484v1](https://www.biorxiv.org/content/10.1101/2024.09.23.614484v2)
+https://www.biorxiv.org/content/10.1101/2024.09.23.614484v2
