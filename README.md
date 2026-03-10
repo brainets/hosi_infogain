@@ -5,6 +5,6 @@ Script associated with the paper
 
 Etienne Combrisson, Ruggero Basanisi, Matteo Neri, Guillaume Auzias, Giovanni Petri, Daniele Marinazzo, Stefano Panzeri & Andrea Brovelli 
 
-Nature Communications volume 16, Article number: 7179 (2025)
+_Nature Communications_ volume 16, Article number: 7179 (2025)
 
 https://www.nature.com/articles/s41467-025-62507-1
