@@ -1,8 +1,10 @@
 # Higher-order synergistic interactions and information gain
-Script associated with the preprint
+Script associated with the paper
 
 **Higher-order and distributed synergistic functional interactions encode information gain in goal-directed learning**
 
-_Etienne Combrisson, Ruggero Basanisi, Matteo Neri, Guillaume Auzias, Giovanni Petri, Daniele Marinazzo, Stefano Panzeri, Andrea Brovelli_
+Etienne Combrisson, Ruggero Basanisi, Matteo Neri, Guillaume Auzias, Giovanni Petri, Daniele Marinazzo, Stefano Panzeri & Andrea Brovelli 
 
-https://www.biorxiv.org/content/10.1101/2024.09.23.614484v2
+Nature Communications volume 16, Article number: 7179 (2025)
+
+https://www.nature.com/articles/s41467-025-62507-1
